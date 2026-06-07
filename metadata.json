@@ -1,0 +1,6 @@
+{
+  "name": "Study Management Dashboard",
+  "description": "Modern educational dashboard for teachers and students with Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
